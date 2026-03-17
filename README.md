@@ -1,6 +1,4 @@
-# petvision
-Predicts your pet's diseases through visual symptoms
-# 🐾 PetVision AI — Pet Skin Condition Detector
+# 🐾 PetVision — Pet Skin Condition Detector
 
 PetVision AI is a deep learning-based pet skin condition classifier that detects 6 common skin conditions in dogs from images using a fine-tuned ResNet50 model.
 ---
